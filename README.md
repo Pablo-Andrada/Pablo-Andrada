@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header_pablo_andrada.png" alt="Header Pablo Andrada" width="100%" />
+</p>
 
 👋 Hola — soy Pablo Matías Andrada
 **FullStack Developer** · Node.js · Java · TypeScript · React  
